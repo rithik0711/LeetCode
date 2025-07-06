@@ -1,3 +1,4 @@
+//Used bitCount to Count number of setbits in the integer
 class Solution {
     public int countPrimeSetBits(int left, int right) {
         int res=0;
