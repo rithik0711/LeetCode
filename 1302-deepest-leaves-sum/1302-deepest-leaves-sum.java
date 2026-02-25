@@ -31,8 +31,26 @@ class Solution {
         }
         return sum;
     }
+    int maxdepth=-1;
+    int sum=0;
+    public void DFS(TreeNode root, int depth){
+        if(root==null) return ;
+        if(root.left==null && root.right==null){
+            if(depth>maxdepth){
+                maxdepth=depth;
+                sum=root.val;
+            }
+            else if(depth==maxdepth){
+                sum+=root.val;
+            }
+        }
+        DFS(root.left, depth+1);
+        DFS(root.right, depth+1);
+    }
     public int deepestLeavesSum(TreeNode root) {
         if(root==null) return 0;
-        return BFS(root);
+        // return BFS(root);
+        DFS(root, 0);
+        return sum;
     }
 }
