@@ -12,3 +12,15 @@ Organized by problem number or topic (if applicable)
 
 🎯 Goal
 Solve X+ problems consistently to prepare for coding interviews and master Data Structures & Algorithms.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/rithik0711/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/rithik0711/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+<!---LeetCode Topics End-->
