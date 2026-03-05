@@ -19,6 +19,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/rithik0711/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/rithik0711/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rithik0711/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -37,4 +38,8 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/rithik0711/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/rithik0711/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 <!---LeetCode Topics End-->
