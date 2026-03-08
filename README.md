@@ -31,11 +31,13 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rithik0711/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/rithik0711/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/rithik0711/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rithik0711/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/rithik0711/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/rithik0711/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Union-Find
@@ -55,4 +57,16 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1267-count-servers-that-communicate](https://github.com/rithik0711/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rithik0711/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rithik0711/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rithik0711/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 <!---LeetCode Topics End-->
