@@ -39,6 +39,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | ------- | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rithik0711/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/rithik0711/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0279-perfect-squares](https://github.com/rithik0711/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/rithik0711/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -69,4 +70,12 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rithik0711/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/rithik0711/LeetCode/tree/main/0279-perfect-squares/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/rithik0711/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 <!---LeetCode Topics End-->
