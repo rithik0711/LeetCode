@@ -22,6 +22,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/rithik0711/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/rithik0711/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rithik0711/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [2942-find-words-containing-character](https://github.com/rithik0711/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3668-restore-finishing-order](https://github.com/rithik0711/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -55,6 +56,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rithik0711/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [2942-find-words-containing-character](https://github.com/rithik0711/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
