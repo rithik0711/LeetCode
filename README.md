@@ -26,6 +26,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [1470-shuffle-the-array](https://github.com/rithik0711/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rithik0711/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rithik0711/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rithik0711/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/rithik0711/LeetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rithik0711/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/rithik0711/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
@@ -40,6 +41,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [0200-number-of-islands](https://github.com/rithik0711/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/rithik0711/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rithik0711/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rithik0711/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/rithik0711/LeetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/rithik0711/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Depth-First Search
