@@ -25,6 +25,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rithik0711/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/rithik0711/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rithik0711/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/rithik0711/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rithik0711/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rithik0711/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/rithik0711/LeetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
@@ -76,6 +77,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/rithik0711/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0290-word-pattern](https://github.com/rithik0711/LeetCode/tree/main/0290-word-pattern/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/rithik0711/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rithik0711/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rithik0711/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2942-find-words-containing-character](https://github.com/rithik0711/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
@@ -85,6 +87,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1267-count-servers-that-communicate](https://github.com/rithik0711/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1684-count-the-number-of-consistent-strings](https://github.com/rithik0711/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/rithik0711/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -112,6 +115,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/rithik0711/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0290-word-pattern](https://github.com/rithik0711/LeetCode/tree/main/0290-word-pattern/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/rithik0711/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [3668-restore-finishing-order](https://github.com/rithik0711/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rithik0711/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Prefix Sum
@@ -130,5 +134,6 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/rithik0711/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/rithik0711/LeetCode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 <!---LeetCode Topics End-->
