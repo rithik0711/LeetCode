@@ -82,6 +82,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rithik0711/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1773-count-items-matching-a-rule](https://github.com/rithik0711/LeetCode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rithik0711/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/rithik0711/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2942-find-words-containing-character](https://github.com/rithik0711/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/rithik0711/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rithik0711/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -118,6 +119,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [0049-group-anagrams](https://github.com/rithik0711/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0290-word-pattern](https://github.com/rithik0711/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rithik0711/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/rithik0711/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [3668-restore-finishing-order](https://github.com/rithik0711/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rithik0711/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Prefix Sum
