@@ -31,6 +31,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rithik0711/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/rithik0711/LeetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/rithik0711/LeetCode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/rithik0711/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rithik0711/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2906-construct-product-matrix](https://github.com/rithik0711/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2942-find-words-containing-character](https://github.com/rithik0711/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
@@ -85,6 +86,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [1773-count-items-matching-a-rule](https://github.com/rithik0711/LeetCode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rithik0711/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rithik0711/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/rithik0711/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/rithik0711/LeetCode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/rithik0711/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/rithik0711/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -128,6 +130,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [0290-word-pattern](https://github.com/rithik0711/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rithik0711/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rithik0711/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/rithik0711/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/rithik0711/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3668-restore-finishing-order](https://github.com/rithik0711/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rithik0711/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -139,6 +142,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/rithik0711/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rithik0711/LeetCode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/rithik0711/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Two Pointers
