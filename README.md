@@ -98,6 +98,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [3110-score-of-a-string](https://github.com/rithik0711/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rithik0711/LeetCode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rithik0711/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3856-trim-trailing-vowels](https://github.com/rithik0711/LeetCode/tree/main/3856-trim-trailing-vowels/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
