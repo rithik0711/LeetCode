@@ -89,6 +89,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rithik0711/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rithik0711/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rithik0711/LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/rithik0711/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/rithik0711/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/rithik0711/LeetCode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/rithik0711/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
