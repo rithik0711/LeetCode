@@ -36,6 +36,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [2798-number-of-employees-who-met-the-target](https://github.com/rithik0711/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2906-construct-product-matrix](https://github.com/rithik0711/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2942-find-words-containing-character](https://github.com/rithik0711/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
+| [2974-minimum-number-game](https://github.com/rithik0711/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rithik0711/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/rithik0711/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/rithik0711/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -76,6 +77,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/rithik0711/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/rithik0711/LeetCode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/rithik0711/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2974-minimum-number-game](https://github.com/rithik0711/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/rithik0711/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -155,6 +157,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/rithik0711/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/rithik0711/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [2974-minimum-number-game](https://github.com/rithik0711/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rithik0711/LeetCode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/rithik0711/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Two Pointers
@@ -175,4 +178,8 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rithik0711/LeetCode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2974-minimum-number-game](https://github.com/rithik0711/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 <!---LeetCode Topics End-->
