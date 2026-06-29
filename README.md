@@ -30,6 +30,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rithik0711/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1773-count-items-matching-a-rule](https://github.com/rithik0711/LeetCode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rithik0711/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rithik0711/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/rithik0711/LeetCode/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/rithik0711/LeetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/rithik0711/LeetCode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
@@ -93,6 +94,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rithik0711/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rithik0711/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rithik0711/LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rithik0711/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/rithik0711/LeetCode/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/rithik0711/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/rithik0711/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
