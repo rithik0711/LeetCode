@@ -22,6 +22,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [0053-maximum-subarray](https://github.com/rithik0711/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0198-house-robber](https://github.com/rithik0711/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/rithik0711/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/rithik0711/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/rithik0711/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/rithik0711/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rithik0711/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -140,6 +141,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [0053-maximum-subarray](https://github.com/rithik0711/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0198-house-robber](https://github.com/rithik0711/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0279-perfect-squares](https://github.com/rithik0711/LeetCode/tree/main/0279-perfect-squares/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/rithik0711/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,4 +194,8 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/rithik0711/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/rithik0711/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
