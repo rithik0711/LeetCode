@@ -132,6 +132,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/rithik0711/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0279-perfect-squares](https://github.com/rithik0711/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rithik0711/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rithik0711/LeetCode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
@@ -139,6 +140,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/rithik0711/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/rithik0711/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/rithik0711/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0279-perfect-squares](https://github.com/rithik0711/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/rithik0711/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -198,4 +200,8 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/rithik0711/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/rithik0711/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
