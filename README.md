@@ -20,6 +20,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/rithik0711/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/rithik0711/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rithik0711/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/rithik0711/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/rithik0711/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/rithik0711/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -199,6 +200,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rithik0711/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/rithik0711/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
