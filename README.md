@@ -136,6 +136,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [0070-climbing-stairs](https://github.com/rithik0711/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0279-perfect-squares](https://github.com/rithik0711/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/rithik0711/LeetCode/tree/main/0492-construct-the-rectangle/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/rithik0711/LeetCode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rithik0711/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rithik0711/LeetCode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rithik0711/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -177,6 +178,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1768-merge-strings-alternately](https://github.com/rithik0711/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/rithik0711/LeetCode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/rithik0711/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -208,4 +210,8 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/rithik0711/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2396-strictly-palindromic-number](https://github.com/rithik0711/LeetCode/tree/main/2396-strictly-palindromic-number/) | Medium |
 <!---LeetCode Topics End-->
