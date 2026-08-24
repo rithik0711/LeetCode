@@ -98,6 +98,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rithik0711/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rithik0711/LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rithik0711/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/rithik0711/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/rithik0711/LeetCode/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/rithik0711/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/rithik0711/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
@@ -178,6 +179,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1768-merge-strings-alternately](https://github.com/rithik0711/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/rithik0711/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/rithik0711/LeetCode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/rithik0711/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Bit Manipulation
@@ -214,4 +216,8 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/rithik0711/LeetCode/tree/main/2396-strictly-palindromic-number/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2000-reverse-prefix-of-word](https://github.com/rithik0711/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 <!---LeetCode Topics End-->
