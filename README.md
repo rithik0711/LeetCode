@@ -28,6 +28,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [1267-count-servers-that-communicate](https://github.com/rithik0711/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rithik0711/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/rithik0711/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
+| [1472-design-browser-history](https://github.com/rithik0711/LeetCode/tree/main/1472-design-browser-history/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rithik0711/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rithik0711/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rithik0711/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -125,6 +126,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rithik0711/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [1472-design-browser-history](https://github.com/rithik0711/LeetCode/tree/main/1472-design-browser-history/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,9 +226,22 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1472-design-browser-history](https://github.com/rithik0711/LeetCode/tree/main/1472-design-browser-history/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/rithik0711/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rithik0711/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/rithik0711/LeetCode/tree/main/1472-design-browser-history/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/rithik0711/LeetCode/tree/main/1472-design-browser-history/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/rithik0711/LeetCode/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
