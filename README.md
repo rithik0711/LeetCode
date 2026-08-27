@@ -116,6 +116,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [3174-clear-digits](https://github.com/rithik0711/LeetCode/tree/main/3174-clear-digits/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rithik0711/LeetCode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rithik0711/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3794-reverse-string-prefix](https://github.com/rithik0711/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3856-trim-trailing-vowels](https://github.com/rithik0711/LeetCode/tree/main/3856-trim-trailing-vowels/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -194,6 +195,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [2000-reverse-prefix-of-word](https://github.com/rithik0711/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/rithik0711/LeetCode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/rithik0711/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/rithik0711/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
