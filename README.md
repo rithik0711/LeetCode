@@ -29,6 +29,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rithik0711/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/rithik0711/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1472-design-browser-history](https://github.com/rithik0711/LeetCode/tree/main/1472-design-browser-history/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rithik0711/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rithik0711/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rithik0711/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rithik0711/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -239,6 +240,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [0155-min-stack](https://github.com/rithik0711/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0844-backspace-string-compare](https://github.com/rithik0711/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1472-design-browser-history](https://github.com/rithik0711/LeetCode/tree/main/1472-design-browser-history/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rithik0711/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/rithik0711/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/rithik0711/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3174-clear-digits](https://github.com/rithik0711/LeetCode/tree/main/3174-clear-digits/) | Easy |
@@ -263,4 +265,8 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rithik0711/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rithik0711/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 <!---LeetCode Topics End-->
