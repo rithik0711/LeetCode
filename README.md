@@ -96,6 +96,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [0290-word-pattern](https://github.com/rithik0711/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/rithik0711/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0844-backspace-string-compare](https://github.com/rithik0711/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rithik0711/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/rithik0711/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rithik0711/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/rithik0711/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -243,6 +244,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | ------- | ------- |
 | [0155-min-stack](https://github.com/rithik0711/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0844-backspace-string-compare](https://github.com/rithik0711/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rithik0711/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/rithik0711/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1472-design-browser-history](https://github.com/rithik0711/LeetCode/tree/main/1472-design-browser-history/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rithik0711/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -277,5 +279,10 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rithik0711/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/rithik0711/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rithik0711/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
