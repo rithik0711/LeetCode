@@ -34,6 +34,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [1684-count-the-number-of-consistent-strings](https://github.com/rithik0711/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rithik0711/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1773-count-items-matching-a-rule](https://github.com/rithik0711/LeetCode/tree/main/1773-count-items-matching-a-rule/) | Easy |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/rithik0711/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rithik0711/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/rithik0711/LeetCode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rithik0711/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -88,6 +89,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/rithik0711/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/rithik0711/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/rithik0711/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/rithik0711/LeetCode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/rithik0711/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2974-minimum-number-game](https://github.com/rithik0711/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
@@ -206,6 +208,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [0005-longest-palindromic-substring](https://github.com/rithik0711/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0844-backspace-string-compare](https://github.com/rithik0711/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/rithik0711/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/rithik0711/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/rithik0711/LeetCode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/rithik0711/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/rithik0711/LeetCode/tree/main/2396-strictly-palindromic-number/) | Medium |
@@ -291,6 +294,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rithik0711/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/rithik0711/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
