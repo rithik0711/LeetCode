@@ -168,6 +168,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rithik0711/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rithik0711/LeetCode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rithik0711/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/rithik0711/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/rithik0711/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rithik0711/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Dynamic Programming
