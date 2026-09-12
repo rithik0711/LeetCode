@@ -172,6 +172,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [3871-count-commas-in-range-ii](https://github.com/rithik0711/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/rithik0711/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rithik0711/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3945-digit-frequency-score](https://github.com/rithik0711/LeetCode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +197,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [3668-restore-finishing-order](https://github.com/rithik0711/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rithik0711/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rithik0711/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3945-digit-frequency-score](https://github.com/rithik0711/LeetCode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
