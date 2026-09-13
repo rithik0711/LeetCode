@@ -129,6 +129,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [3019-number-of-changing-keys](https://github.com/rithik0711/LeetCode/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3110-score-of-a-string](https://github.com/rithik0711/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
 | [3174-clear-digits](https://github.com/rithik0711/LeetCode/tree/main/3174-clear-digits/) | Easy |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rithik0711/LeetCode/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rithik0711/LeetCode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rithik0711/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/rithik0711/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -142,6 +143,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rithik0711/LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/rithik0711/LeetCode/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rithik0711/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rithik0711/LeetCode/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/rithik0711/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3978-unique-middle-element](https://github.com/rithik0711/LeetCode/tree/main/3978-unique-middle-element/) | Easy |
 ## Linked List
@@ -194,6 +196,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rithik0711/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/rithik0711/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/rithik0711/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rithik0711/LeetCode/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3668-restore-finishing-order](https://github.com/rithik0711/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rithik0711/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rithik0711/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
