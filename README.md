@@ -48,6 +48,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [2942-find-words-containing-character](https://github.com/rithik0711/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/rithik0711/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rithik0711/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/rithik0711/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/rithik0711/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/rithik0711/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3668-restore-finishing-order](https://github.com/rithik0711/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
@@ -95,6 +96,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [2785-sort-vowels-in-a-string](https://github.com/rithik0711/LeetCode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/rithik0711/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2974-minimum-number-game](https://github.com/rithik0711/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/rithik0711/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/rithik0711/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -229,6 +231,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/rithik0711/LeetCode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/rithik0711/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/rithik0711/LeetCode/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/rithik0711/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/rithik0711/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/rithik0711/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Bit Manipulation
