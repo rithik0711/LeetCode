@@ -110,6 +110,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rithik0711/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/rithik0711/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rithik0711/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/rithik0711/LeetCode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/rithik0711/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rithik0711/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1773-count-items-matching-a-rule](https://github.com/rithik0711/LeetCode/tree/main/1773-count-items-matching-a-rule/) | Easy |
@@ -142,6 +143,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [1267-count-servers-that-communicate](https://github.com/rithik0711/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1603-design-parking-system](https://github.com/rithik0711/LeetCode/tree/main/1603-design-parking-system/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rithik0711/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/rithik0711/LeetCode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rithik0711/LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/rithik0711/LeetCode/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rithik0711/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
