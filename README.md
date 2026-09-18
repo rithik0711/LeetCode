@@ -102,6 +102,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rithik0711/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0012-integer-to-roman](https://github.com/rithik0711/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0049-group-anagrams](https://github.com/rithik0711/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0290-word-pattern](https://github.com/rithik0711/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/rithik0711/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -166,6 +167,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/rithik0711/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0070-climbing-stairs](https://github.com/rithik0711/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0279-perfect-squares](https://github.com/rithik0711/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/rithik0711/LeetCode/tree/main/0492-construct-the-rectangle/) | Easy |
@@ -191,6 +193,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/rithik0711/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0049-group-anagrams](https://github.com/rithik0711/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0290-word-pattern](https://github.com/rithik0711/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rithik0711/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
