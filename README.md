@@ -135,6 +135,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [3174-clear-digits](https://github.com/rithik0711/LeetCode/tree/main/3174-clear-digits/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rithik0711/LeetCode/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rithik0711/LeetCode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/rithik0711/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rithik0711/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/rithik0711/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3856-trim-trailing-vowels](https://github.com/rithik0711/LeetCode/tree/main/3856-trim-trailing-vowels/) | Easy |
@@ -226,6 +227,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [2974-minimum-number-game](https://github.com/rithik0711/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3174-clear-digits](https://github.com/rithik0711/LeetCode/tree/main/3174-clear-digits/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rithik0711/LeetCode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/rithik0711/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/rithik0711/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
