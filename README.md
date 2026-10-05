@@ -108,6 +108,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [0020-valid-parentheses](https://github.com/rithik0711/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/rithik0711/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0290-word-pattern](https://github.com/rithik0711/LeetCode/tree/main/0290-word-pattern/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rithik0711/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/rithik0711/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0844-backspace-string-compare](https://github.com/rithik0711/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/rithik0711/LeetCode/tree/main/0917-reverse-only-letters/) | Easy |
@@ -204,6 +205,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [0049-group-anagrams](https://github.com/rithik0711/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0229-majority-element-ii](https://github.com/rithik0711/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0290-word-pattern](https://github.com/rithik0711/LeetCode/tree/main/0290-word-pattern/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rithik0711/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rithik0711/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rithik0711/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rithik0711/LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
@@ -317,6 +319,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rithik0711/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rithik0711/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
