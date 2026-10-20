@@ -160,6 +160,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/rithik0711/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rithik0711/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [1472-design-browser-history](https://github.com/rithik0711/LeetCode/tree/main/1472-design-browser-history/) | Medium |
 ## Tree
@@ -344,4 +345,8 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/rithik0711/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/rithik0711/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 <!---LeetCode Topics End-->
