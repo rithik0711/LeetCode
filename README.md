@@ -106,6 +106,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [0005-longest-palindromic-substring](https://github.com/rithik0711/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0012-integer-to-roman](https://github.com/rithik0711/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/rithik0711/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0038-count-and-say](https://github.com/rithik0711/LeetCode/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/rithik0711/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0290-word-pattern](https://github.com/rithik0711/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rithik0711/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
