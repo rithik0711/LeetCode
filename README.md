@@ -110,6 +110,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [0049-group-anagrams](https://github.com/rithik0711/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0290-word-pattern](https://github.com/rithik0711/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rithik0711/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0443-string-compression](https://github.com/rithik0711/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/rithik0711/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0844-backspace-string-compare](https://github.com/rithik0711/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/rithik0711/LeetCode/tree/main/0917-reverse-only-letters/) | Easy |
@@ -242,6 +243,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rithik0711/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0443-string-compression](https://github.com/rithik0711/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0844-backspace-string-compare](https://github.com/rithik0711/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/rithik0711/LeetCode/tree/main/0917-reverse-only-letters/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/rithik0711/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
