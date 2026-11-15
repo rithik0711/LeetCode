@@ -20,6 +20,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/rithik0711/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/rithik0711/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/rithik0711/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rithik0711/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/rithik0711/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/rithik0711/LeetCode/tree/main/0200-number-of-islands/) | Medium |
@@ -86,6 +87,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rithik0711/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/rithik0711/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/rithik0711/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Sorting
@@ -206,6 +208,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/rithik0711/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0049-group-anagrams](https://github.com/rithik0711/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/rithik0711/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0229-majority-element-ii](https://github.com/rithik0711/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0290-word-pattern](https://github.com/rithik0711/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rithik0711/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
