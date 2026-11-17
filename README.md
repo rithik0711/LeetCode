@@ -41,6 +41,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/rithik0711/LeetCode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rithik0711/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/rithik0711/LeetCode/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/rithik0711/LeetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/rithik0711/LeetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/rithik0711/LeetCode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rithik0711/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
@@ -183,6 +184,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [0070-climbing-stairs](https://github.com/rithik0711/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0279-perfect-squares](https://github.com/rithik0711/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/rithik0711/LeetCode/tree/main/0492-construct-the-rectangle/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/rithik0711/LeetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/rithik0711/LeetCode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rithik0711/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rithik0711/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -236,6 +238,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [0657-robot-return-to-origin](https://github.com/rithik0711/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0844-backspace-string-compare](https://github.com/rithik0711/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1603-design-parking-system](https://github.com/rithik0711/LeetCode/tree/main/1603-design-parking-system/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/rithik0711/LeetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/rithik0711/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/rithik0711/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/rithik0711/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
@@ -267,10 +270,12 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/rithik0711/LeetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rithik0711/LeetCode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/rithik0711/LeetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rithik0711/LeetCode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rithik0711/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Heap (Priority Queue)
