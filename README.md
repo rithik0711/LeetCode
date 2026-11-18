@@ -45,6 +45,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [2373-largest-local-values-in-a-matrix](https://github.com/rithik0711/LeetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/rithik0711/LeetCode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rithik0711/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2460-apply-operations-to-an-array](https://github.com/rithik0711/LeetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/rithik0711/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rithik0711/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2906-construct-product-matrix](https://github.com/rithik0711/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
@@ -241,6 +242,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [2221-find-triangular-sum-of-an-array](https://github.com/rithik0711/LeetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/rithik0711/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/rithik0711/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2460-apply-operations-to-an-array](https://github.com/rithik0711/LeetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/rithik0711/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2974-minimum-number-game](https://github.com/rithik0711/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3174-clear-digits](https://github.com/rithik0711/LeetCode/tree/main/3174-clear-digits/) | Easy |
@@ -259,6 +261,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/rithik0711/LeetCode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/rithik0711/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/rithik0711/LeetCode/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2460-apply-operations-to-an-array](https://github.com/rithik0711/LeetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/rithik0711/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/rithik0711/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/rithik0711/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
