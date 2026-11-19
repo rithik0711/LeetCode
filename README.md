@@ -46,6 +46,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/rithik0711/LeetCode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rithik0711/LeetCode/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/rithik0711/LeetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/rithik0711/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/rithik0711/LeetCode/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rithik0711/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2906-construct-product-matrix](https://github.com/rithik0711/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
@@ -99,6 +100,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [0229-majority-element-ii](https://github.com/rithik0711/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/rithik0711/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rithik0711/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/rithik0711/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/rithik0711/LeetCode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/rithik0711/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2974-minimum-number-game](https://github.com/rithik0711/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
@@ -353,6 +355,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rithik0711/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rithik0711/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/rithik0711/LeetCode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
