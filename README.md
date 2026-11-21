@@ -41,6 +41,7 @@ Solve X+ problems consistently to prepare for coding interviews and master Data 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/rithik0711/LeetCode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rithik0711/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/rithik0711/LeetCode/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/rithik0711/LeetCode/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/rithik0711/LeetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/rithik0711/LeetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/rithik0711/LeetCode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
